@@ -1,0 +1,11 @@
+D:\Project\memory_simulator\memory_simulator\bin\Debug\memory_simulator.exe.config
+D:\Project\memory_simulator\memory_simulator\bin\Debug\memory_simulator.exe
+D:\Project\memory_simulator\memory_simulator\bin\Debug\memory_simulator.pdb
+D:\Project\memory_simulator\memory_simulator\obj\Debug\memory_simulator.csproj.AssemblyReference.cache
+D:\Project\memory_simulator\memory_simulator\obj\Debug\memory_simulator.csproj.SuggestedBindingRedirects.cache
+D:\Project\memory_simulator\memory_simulator\obj\Debug\memory_simulator.Form1.resources
+D:\Project\memory_simulator\memory_simulator\obj\Debug\memory_simulator.Properties.Resources.resources
+D:\Project\memory_simulator\memory_simulator\obj\Debug\memory_simulator.csproj.GenerateResource.cache
+D:\Project\memory_simulator\memory_simulator\obj\Debug\memory_simulator.csproj.CoreCompileInputs.cache
+D:\Project\memory_simulator\memory_simulator\obj\Debug\memory_simulator.exe
+D:\Project\memory_simulator\memory_simulator\obj\Debug\memory_simulator.pdb
